@@ -1,0 +1,17 @@
+.Footer {
+    width: 100%;
+    background-color: #000000;
+    height: 80px;
+    margin-top: 70px;
+    display: table;
+}
+
+.VerticalCenter {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.VerticalCenter h1 {
+    text-align: center;
+    color: #FFFFFF;
+}

@@ -1,0 +1,11 @@
+.Banner7 {
+    width: 100%;
+    height: 350px;
+    background-color: #abff7b;
+}
+
+.Banner7 h1 {
+    text-align: center;
+    padding-top: 150px;
+    font-size: 36px;
+}

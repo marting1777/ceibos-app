@@ -1,0 +1,13 @@
+.CardMer {
+    background-color: rgb(236, 28, 255);
+    width: 50%;
+    height: 100%;
+    border: 2px solid #ffffff;
+    text-align: center;
+    float: left;
+    margin-bottom: 30px;
+}
+
+.CardMer h1 {
+    padding-top: 80px;
+}

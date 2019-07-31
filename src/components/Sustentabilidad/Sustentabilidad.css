@@ -1,0 +1,11 @@
+.Banner6 {
+    width: 100%;
+    height: 350px;
+    background-color: #f3b60e;
+}
+
+.Banner6 h1 {
+    text-align: center;
+    padding-top: 150px;
+    font-size: 36px;
+}

@@ -1,0 +1,11 @@
+.Card {
+    background-color: green;
+    float: left;
+    width: 25%;
+    height: 100%;
+    border: 2px solid #ffffff;
+}
+
+.Card h1 {
+    padding-top: 70px;
+}

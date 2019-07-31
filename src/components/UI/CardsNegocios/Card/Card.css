@@ -1,0 +1,11 @@
+.CardN {
+    background-color: rgb(28, 196, 28);
+    float: left;
+    width: 20%;
+    height: 100%;
+    border: 2px solid #ffffff;
+}
+
+.CardN h1 {
+    padding-top: 70px;
+}

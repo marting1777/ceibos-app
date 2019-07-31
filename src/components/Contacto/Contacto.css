@@ -1,0 +1,11 @@
+.Banner3 {
+    width: 100%;
+    height:350px;
+    background-color: #dddd1c;
+}
+
+.Banner3 p {
+    text-align: center;
+    padding-top: 150px;
+    font-size: 36px;
+}

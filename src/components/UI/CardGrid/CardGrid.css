@@ -1,0 +1,10 @@
+.CardGrid {
+    height: 250px;
+    width: 100%;
+}
+
+.TituloCardsGrid {
+    margin-top: 60px;
+    text-transform: uppercase;
+    text-align: left;
+}

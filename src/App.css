@@ -1,0 +1,7 @@
+* {
+  box-sizing: border-box;
+}
+
+.MainContainer {
+  padding: 100px 15px 0 15px;
+}

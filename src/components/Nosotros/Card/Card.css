@@ -1,0 +1,11 @@
+.CardNos {
+    background-color: rgb(192, 188, 188);
+    width: 100%;
+    height: 200px;
+    border: 2px solid #ffffff;
+    text-align: center;
+}
+
+.CardNos h1 {
+    padding-top: 60px;
+}

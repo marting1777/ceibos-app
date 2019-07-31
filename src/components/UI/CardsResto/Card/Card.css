@@ -1,0 +1,11 @@
+.CardR {
+    background-color: rgb(28, 196, 28);
+    float: left;
+    width: 33.3333%;
+    height: 100%;
+    border: 2px solid #ffffff;
+}
+
+.CardR h1 {
+    padding-top: 70px;
+}

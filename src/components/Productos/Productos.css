@@ -1,0 +1,11 @@
+.Banner5 {
+    width: 100%;
+    height:350px;
+    background-color: #73bbeb;
+}
+
+.Banner5 h1 {
+    text-align: center;
+    font-size: 36px;
+    padding-top: 150px;
+}
